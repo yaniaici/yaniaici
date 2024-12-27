@@ -12,8 +12,8 @@
 -  **Studying at:** Universitat Rovira i Virgili (URV) 🏫
 -  **Career Goal:** Building a career in Cybersecurity :shield: 
 -  **Experience in:** Software Engineering :computer: 
--  **Projects in:** Python 🐍 | JavaScript ☕
--  **Hobbies:** Coding 💻 | Exploring Cybersecurity 🔐 | Music 🎵
+-  **Projects in:** Python 🐍 | JavaScript ☕ | C | Java 
+-  **Hobbies:** Coding 💻 | Exploring Cybersecurity 🔐
 -  **Location:** Barcelona, Spain 🇪🇸 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
