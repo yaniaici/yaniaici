@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center"> Hello, I'm Yani Aici 👩‍💻 </h1>
 
-<!--
-**yaniaici/yaniaici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Student of Computer Engineering | Aspiring Cybersecurity Specialist </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://github.com/yaniaici"><img alt="GitHub" src="https://img.shields.io/badge/-Yani_Aici-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yaniaici"></a>
+<a href="https://www.linkedin.com/in/yaniaici/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Yani_Aici-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaniaici/"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Studying at:** Universitat Rovira i Virgili (URV) 🏫
+-  **Career Goal:** Building a career in Cybersecurity :shield: 
+-  **Experience in:** Software Engineering :computer: 
+-  **Projects in:** Python 🐍 | JavaScript ☕
+-  **Hobbies:** Coding 💻 | Exploring Cybersecurity 🔐 | Music 🎵
+-  **Location:** Barcelona, Spain 🇪🇸 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaniaici" alt="yaniaici" /> </p>
+
+### 📊 Profile stats
+
+[![YaniAici's github stats](https://github-readme-stats.vercel.app/api?username=yaniaici&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/yaniaici/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⭐️ From [YaniAici](https://github.com/yaniaici)
