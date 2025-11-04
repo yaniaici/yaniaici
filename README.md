@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Yani Aici 👩‍💻 </h1>
 
-<h3 align="center"> Computer Engineer | Cybersecurity Analyst </h3> <br>
+<h3 align="center"> Cybersecurity Engineer </h3> <br>
 
 <p align="center"> 
 <a href="https://github.com/yaniaici"><img alt="GitHub" src="https://img.shields.io/badge/-Yani_Aici-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yaniaici"></a>
@@ -10,6 +10,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Degree:** Computer Engineering at Universitat Rovira i Virgili (URV) 🏫
+-  **Master:** Cybersecurity and Data Privacy at Universitat Oberta de Catalunya (UOC) 🏫
 -  **Career Goal:** Building a career in Cybersecurity :shield: 
 -  **Experience in:** Software Engineering :computer: 
 -  **Projects in:** Python 🐍 | JavaScript ☕ | C | Java 
