@@ -2,9 +2,8 @@
 <h3 align="center">Detection Engineer · Threat Hunting & DFIR · Software Engineering background</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://app.hackthebox.com/profile/TU-ID"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
-  <a href="mailto:TU-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/yani-aici-lounis-37660223b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://app.hackthebox.com/users/2285510"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
 </p>
 
 ---
