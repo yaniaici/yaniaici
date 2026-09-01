@@ -46,15 +46,3 @@ The idea: catch the attacker while they're still setting up the stage.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaniaici&show_icons=true&hide_border=true&locale=en" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaniaici&layout=compact&hide_border=true&locale=en" alt="top langs" height="165">
-</p>
-
----
-
-<p align="center"><i>Detection is a craft, not a checkbox.</i></p>
