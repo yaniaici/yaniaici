@@ -12,11 +12,11 @@
 
 I build and tune detections for a living, and I spend my free time on the other half of the problem: finding the things that no rule caught yet.
 
-- 🛡️ **Detection Engineer at DEFION**, an MSSP where I work across multiple client SIEMs (Cortex XSIAM, CrowdStrike) — different tenants, different data models, same goal.
-- 🧭 ~2 years in detection engineering, ~3.5 years in IT overall. Based in Spain 🇪🇸
+- 🛡️ **Detection Engineer at DEFION**, an MSSP where I work across multiple client SIEMs (Cortex XSIAM, CrowdStrike)...
+- 🧭 ~2 years in detection engineering, ~3.5 years in IT overall.
 - 🕰️ Previously **Detection Engineer / SIEM specialist at EY**, and before that a hybrid **Software Engineer / DevOps** role on the EU-backed **DOME Project**.
 - 🎯 Heading towards **threat hunting and DFIR**. My software background is the reason I'd rather build the tool than open another ticket.
-- 🎓 Currently preparing **eJPTv2**; **CRTO** is next. I'm a detection engineer, not a pentester — I study offense to defend better.
+- 🎓 Currently preparing **eJPTv2**; **CRTO** is next.
 - 🔎 Big on **OSINT** and threat-actor research.
 
 ---
